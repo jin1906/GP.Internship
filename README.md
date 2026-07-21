@@ -2,15 +2,17 @@
 
 ## Everything about the company 
 
-Gold Peak Technology Group Ltd. has multiple subsidaries, including GP Batteries, GP EnergyTech, KEF, and a few others. I was placed under GP EnergyTech, which is focused around rechargeable batteries and battery innovation. I worked under the manufacturing team in the Dongguan, China plant, where we developed systems to mass produce brand new, proprietary Zinc-Nickel battery cells. 
+Gold Peak Technology Group Ltd. has multiple subsidaries, including GP Batteries, GP EnergyTech, KEF, and a few others. I was placed under GP EnergyTech, which is focused around rechargeable batteries and battery innovation. I worked under the manufacturing team in the Dongguan, China plant, where we developed systems to mass produce brand new, proprietary Zinc-Nickel battery cells. I'm currently stationed in Shenzhen, working at the GP Centre for Battery Innovation. I still don't know if I can fully show everything that I do here, and I'm still working on this internship. 
 
 ## Projects
 
+- Conducting assembly, testing, EIS, and failure analysis on Ni-Zn battery coins
 - AutoCAD design of a nickel-zinc battery pack assembly line
 - Constructed 384 cell battery packs
 - Created Fusion360 3D models for 16 cell battery packs
 
-<img width="768" height="1024" alt="76C713D5-0C26-42D4-8DD0-3E59061F8246_1_105_c" src="https://github.com/user-attachments/assets/680d782b-07c0-4d36-94f9-e7bcb6851a0c" />
+
+<!-- <img width="768" height="1024" alt="76C713D5-0C26-42D4-8DD0-3E59061F8246_1_105_c" src="https://github.com/user-attachments/assets/680d782b-07c0-4d36-94f9-e7bcb6851a0c" />
 <img width="1024" height="768" alt="731A326D-C0D1-433C-A1D2-E057B12FE1ED_1_105_c" src="https://github.com/user-attachments/assets/432bd6f6-16e1-44f0-9982-6e02b62925a3" />
 <img width="1201" height="847" alt="Screenshot 2026-07-13 at 10 46 05 AM" src="https://github.com/user-attachments/assets/dd2081af-6e56-4970-99fa-693460c6c215" />
-<img width="861" height="806" alt="Modified DCGB Layout " src="https://github.com/user-attachments/assets/454e9163-c17a-44a5-9d6f-ad2bf8fbd155" />
+<img width="861" height="806" alt="Modified DCGB Layout " src="https://github.com/user-attachments/assets/454e9163-c17a-44a5-9d6f-ad2bf8fbd155" /> -->
